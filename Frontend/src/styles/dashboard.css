@@ -1,0 +1,31 @@
+.dashboard{
+    padding: 0px 5vw;
+}
+.dashboard-container{
+    background-color: #f2f2f2;
+    padding: 5vw;
+    height: 100vh;
+}
+.topicList{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.topic-button{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+}
+button{
+    margin-top: 0 !important;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    min-height: 52px;
+    align-items: center;
+
+}

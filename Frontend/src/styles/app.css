@@ -1,0 +1,12 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body  {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:-webkit-any-link {
+  text-decoration: none !important;
+  color: #fff !important;
+}

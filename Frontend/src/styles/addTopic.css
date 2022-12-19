@@ -1,0 +1,48 @@
+.addTopic{
+    padding: 0px 5vw;
+}
+
+.addTopic-container{
+    background-color: #f2f2f2;
+    padding: 5vw;
+}
+
+.addText label {
+    display: block;
+    margin: 16px 0px;
+    font-size: 14px;
+}
+
+.addText input {
+    border: 1px solid #177cda;
+    font-size: 13px;
+    padding: 12px;
+    border-radius: 12px;
+    min-width: 240px;
+    max-width: 448px;
+    width: 100%;
+}
+
+.addText textarea {
+    border: 1px solid #177cda;
+    font-size: 13px;
+    padding: 12px;
+    border-radius: 12px;
+    min-width: 240px;
+    max-width: 448px;
+    width: 100%;
+    min-height: 120px;
+    resize: none;
+}
+
+button{
+    height: 36px;
+    min-width: 120px;
+    border: 2px solid #e5e5e5 !important ; 
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    background-color: #177cda;
+    margin-top: 24px;
+    
+}
